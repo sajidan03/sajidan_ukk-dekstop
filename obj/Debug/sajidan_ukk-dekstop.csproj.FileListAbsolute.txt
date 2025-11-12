@@ -1,0 +1,14 @@
+C:\Sajidan\C#\sajidan_ukk-dekstop\bin\Debug\sajidan_ukk-dekstop.exe.config
+C:\Sajidan\C#\sajidan_ukk-dekstop\bin\Debug\sajidan_ukk-dekstop.exe
+C:\Sajidan\C#\sajidan_ukk-dekstop\bin\Debug\sajidan_ukk-dekstop.pdb
+C:\Sajidan\C#\sajidan_ukk-dekstop\bin\Debug\Guna.UI2.dll
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk-dekstop.csproj.AssemblyReference.cache
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk_dekstop.login.resources
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk_dekstop.Properties.Resources.resources
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk-dekstop.csproj.GenerateResource.cache
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk-dekstop.csproj.CoreCompileInputs.cache
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_.2C88E587.Up2Date
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk-dekstop.exe
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk-dekstop.pdb
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk-dekstop.exe.config
+C:\Sajidan\C#\sajidan_ukk-dekstop\obj\Debug\sajidan_ukk_dekstop.KelolaProduk.resources
