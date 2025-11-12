@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace sajidan_ukk_dekstop
 {
     internal static class Program
@@ -17,6 +18,7 @@ namespace sajidan_ukk_dekstop
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new login());
+            //Application.Run(new KelolaProduk());
         }
     }
 }

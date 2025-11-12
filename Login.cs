@@ -63,7 +63,7 @@ namespace sajidan_ukk_dekstop
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void guna2TextBox1_TextChanged(object sender, EventArgs e)
