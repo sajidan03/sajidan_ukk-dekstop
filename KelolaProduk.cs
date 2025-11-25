@@ -21,7 +21,7 @@ namespace sajidan_ukk_dekstop
         SqlDataAdapter sda;
         SqlDataReader rd;
         string filename = "";
-        string lokasi = "C:\\Sajidan\\C#\\sajidan_ukk-dekstop\\assets";
+        string lokasi = "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\assets";
         public KelolaProduk()
         {
             InitializeComponent();

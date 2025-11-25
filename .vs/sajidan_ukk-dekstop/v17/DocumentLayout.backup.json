@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|c:\\sajidan\\ukk\\sajidan_ukk-dekstop\\kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:kelolaproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|c:\\sajidan\\ukk\\sajidan_ukk-dekstop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|c:\\sajidan\\ukk\\sajidan_ukk-dekstop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDA6B86D-7D72-40E3-AD17-A832BA8E0768}|sajidan_ukk-dekstop.csproj|C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 20,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +87,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-25T00:59:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -90,25 +107,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:42:20.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T03:42:20.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "KelolaProduk.cs",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\KelolaProduk.cs",
               "RelativeDocumentMoniker": "KelolaProduk.cs",
               "ToolTip": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\KelolaProduk.cs",
               "RelativeToolTip": "KelolaProduk.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAowGIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T01:19:03.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KelolaProduk.cs [Design]",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\KelolaProduk.cs",
               "RelativeDocumentMoniker": "KelolaProduk.cs",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Sessions.cs",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Sessions.cs",
               "RelativeDocumentMoniker": "Sessions.cs",
@@ -128,45 +144,45 @@
               "RelativeToolTip": "Sessions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T01:03:41.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T01:03:41.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Connections.cs",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Connections.cs",
               "RelativeDocumentMoniker": "Connections.cs",
               "ToolTip": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Connections.cs",
               "RelativeToolTip": "Connections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T01:00:37.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Login.cs",
-              "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAwEEAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Login.cs*",
+              "RelativeToolTip": "Login.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T00:47:18.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Sajidan\\C#\\sajidan_ukk-dekstop\\Login.cs [Design]",
-              "RelativeToolTip": "..\\..\\C#\\sajidan_ukk-dekstop\\Login.cs [Design]",
+              "ToolTip": "C:\\Sajidan\\UKK\\sajidan_ukk-dekstop\\Login.cs [Design]*",
+              "RelativeToolTip": "Login.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T00:43:20.63Z"
+              "WhenOpened": "2025-11-12T00:43:20.63Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

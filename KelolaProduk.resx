@@ -117,14 +117,287 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;labelNama.Name" xml:space="preserve">
+    <value>labelNama</value>
+  </data>
+  <data name="&gt;&gt;labelNama.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;labelNama.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelNama.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel6.Name" xml:space="preserve">
+    <value>guna2HtmlLabel6</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel6.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel6.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chart1.Name" xml:space="preserve">
+    <value>chart1</value>
+  </data>
+  <data name="&gt;&gt;chart1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;chart1.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;chart1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button6.Name" xml:space="preserve">
+    <value>guna2Button6</value>
+  </data>
+  <data name="&gt;&gt;guna2Button6.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Button6.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button6.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;cari.Name" xml:space="preserve">
+    <value>cari</value>
+  </data>
+  <data name="&gt;&gt;cari.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;cari.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;cari.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;idp.Name" xml:space="preserve">
+    <value>idp</value>
+  </data>
+  <data name="&gt;&gt;idp.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;idp.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;idp.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;harga.Name" xml:space="preserve">
+    <value>harga</value>
+  </data>
+  <data name="&gt;&gt;harga.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;harga.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;harga.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;deskripsi.Name" xml:space="preserve">
+    <value>deskripsi</value>
+  </data>
+  <data name="&gt;&gt;deskripsi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deskripsi.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;deskripsi.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel7.Name" xml:space="preserve">
+    <value>guna2HtmlLabel7</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel7.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel7.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel7.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;guna2Button4.Name" xml:space="preserve">
+    <value>guna2Button4</value>
+  </data>
+  <data name="&gt;&gt;guna2Button4.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Button4.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button4.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;pictureBox.Name" xml:space="preserve">
+    <value>pictureBox</value>
+  </data>
+  <data name="&gt;&gt;pictureBox.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2PictureBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;pictureBox.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;guna2Button3.Name" xml:space="preserve">
+    <value>guna2Button3</value>
+  </data>
+  <data name="&gt;&gt;guna2Button3.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Button3.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button3.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;guna2Button2.Name" xml:space="preserve">
+    <value>guna2Button2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Button2.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button2.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.Name" xml:space="preserve">
+    <value>guna2Button1</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Button1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel5.Name" xml:space="preserve">
+    <value>guna2HtmlLabel5</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel5.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel5.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel5.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel4.Name" xml:space="preserve">
+    <value>guna2HtmlLabel4</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel4.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel4.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel4.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;stok.Name" xml:space="preserve">
+    <value>stok</value>
+  </data>
+  <data name="&gt;&gt;stok.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2NumericUpDown, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;stok.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;stok.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel3.Name" xml:space="preserve">
+    <value>guna2HtmlLabel3</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel3.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel3.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel3.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;nama.Name" xml:space="preserve">
+    <value>nama</value>
+  </data>
+  <data name="&gt;&gt;nama.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;nama.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;nama.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;dgv.Name" xml:space="preserve">
+    <value>dgv</value>
+  </data>
+  <data name="&gt;&gt;dgv.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgv.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;dgv.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.Name" xml:space="preserve">
+    <value>guna2HtmlLabel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2HtmlLabel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.Parent" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2HtmlLabel2.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="guna2Panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>274, 0</value>
+  </data>
+  <data name="guna2Panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>697, 825</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="guna2Panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.Name" xml:space="preserve">
+    <value>guna2Panel2</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.Type" xml:space="preserve">
+    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;guna2Panel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="labelNama.Location" type="System.Drawing.Point, System.Drawing">
     <value>119, 37</value>
   </data>
   <data name="labelNama.Size" type="System.Drawing.Size, System.Drawing">
     <value>31, 15</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="labelNama.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
   </data>
@@ -672,27 +945,6 @@
   <data name="&gt;&gt;guna2HtmlLabel2.ZOrder" xml:space="preserve">
     <value>20</value>
   </data>
-  <data name="guna2Panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>274, 0</value>
-  </data>
-  <data name="guna2Panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>697, 825</value>
-  </data>
-  <data name="guna2Panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.Name" xml:space="preserve">
-    <value>guna2Panel2</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Panel, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;guna2Panel2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="guna2Button5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 9pt</value>
   </data>
@@ -724,7 +976,7 @@
     <value>Segoe UI Semibold, 16.2pt, style=Bold</value>
   </data>
   <data name="guna2HtmlLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>77, 408</value>
+    <value>85, 413</value>
   </data>
   <data name="guna2HtmlLabel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>107, 32</value>

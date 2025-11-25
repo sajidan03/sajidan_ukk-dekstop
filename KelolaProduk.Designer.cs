@@ -28,11 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(KelolaProduk));
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            this.labelNama = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.guna2HtmlLabel6 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
             this.cari = new Guna.UI2.WinForms.Guna2TextBox();
@@ -57,8 +59,6 @@
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.guna2HtmlLabel6 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.labelNama = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2Panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
@@ -95,18 +95,30 @@
             this.guna2Panel2.Name = "guna2Panel2";
             this.guna2Panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel2_Paint);
             // 
+            // labelNama
+            // 
+            this.labelNama.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.labelNama, "labelNama");
+            this.labelNama.Name = "labelNama";
+            // 
+            // guna2HtmlLabel6
+            // 
+            this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
+            resources.ApplyResources(this.guna2HtmlLabel6, "guna2HtmlLabel6");
+            this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
+            // 
             // chart1
             // 
-            chartArea1.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chart1.Legends.Add(legend1);
+            chartArea2.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            this.chart1.Legends.Add(legend2);
             resources.ApplyResources(this.chart1, "chart1");
             this.chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            this.chart1.Series.Add(series1);
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.chart1.Series.Add(series2);
             this.chart1.Click += new System.EventHandler(this.chart1_Click);
             // 
             // guna2Button6
@@ -331,7 +343,7 @@
             // 
             // guna2Panel1
             // 
-            this.guna2Panel1.BackColor = System.Drawing.Color.SlateGray;
+            this.guna2Panel1.BackColor = System.Drawing.Color.CadetBlue;
             this.guna2Panel1.Controls.Add(this.guna2Button5);
             this.guna2Panel1.Controls.Add(this.guna2HtmlLabel1);
             this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
@@ -375,18 +387,6 @@
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            // 
-            // guna2HtmlLabel6
-            // 
-            this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.guna2HtmlLabel6, "guna2HtmlLabel6");
-            this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            // 
-            // labelNama
-            // 
-            this.labelNama.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.labelNama, "labelNama");
-            this.labelNama.Name = "labelNama";
             // 
             // KelolaProduk
             // 

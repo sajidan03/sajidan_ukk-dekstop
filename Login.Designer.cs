@@ -30,6 +30,7 @@
         {
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.buttonClose = new Guna.UI2.WinForms.Guna2Button();
             this.buttonLogin = new Guna.UI2.WinForms.Guna2Button();
@@ -39,10 +40,9 @@
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.username = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Panel1.SuspendLayout();
-            this.guna2Panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
+            this.guna2Panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // guna2HtmlLabel1
@@ -50,16 +50,16 @@
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI Semibold", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.Ivory;
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(72, 303);
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(79, 303);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(130, 39);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(107, 32);
             this.guna2HtmlLabel1.TabIndex = 0;
             this.guna2HtmlLabel1.Text = "SA Market";
             this.guna2HtmlLabel1.Click += new System.EventHandler(this.guna2HtmlLabel1_Click);
             // 
             // guna2Panel1
             // 
-            this.guna2Panel1.BackColor = System.Drawing.Color.SlateGray;
+            this.guna2Panel1.BackColor = System.Drawing.Color.CadetBlue;
             this.guna2Panel1.Controls.Add(this.guna2HtmlLabel1);
             this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
             this.guna2Panel1.Location = new System.Drawing.Point(0, 0);
@@ -67,6 +67,20 @@
             this.guna2Panel1.Size = new System.Drawing.Size(268, 536);
             this.guna2Panel1.TabIndex = 1;
             this.guna2Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
+            // 
+            // guna2PictureBox1
+            // 
+            this.guna2PictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2PictureBox1.Image = global::sajidan_ukk_dekstop.Properties.Resources.logo;
+            this.guna2PictureBox1.ImageRotate = 0F;
+            this.guna2PictureBox1.Location = new System.Drawing.Point(72, 151);
+            this.guna2PictureBox1.Name = "guna2PictureBox1";
+            this.guna2PictureBox1.Size = new System.Drawing.Size(130, 130);
+            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox1.TabIndex = 0;
+            this.guna2PictureBox1.TabStop = false;
+            this.guna2PictureBox1.UseTransparentBackground = true;
+            this.guna2PictureBox1.Click += new System.EventHandler(this.guna2PictureBox1_Click);
             // 
             // guna2Panel2
             // 
@@ -127,7 +141,7 @@
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.Navy;
             this.guna2HtmlLabel5.Location = new System.Drawing.Point(43, 282);
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            this.guna2HtmlLabel5.Size = new System.Drawing.Size(75, 25);
+            this.guna2HtmlLabel5.Size = new System.Drawing.Size(62, 21);
             this.guna2HtmlLabel5.TabIndex = 6;
             this.guna2HtmlLabel5.Text = "Password";
             this.guna2HtmlLabel5.Click += new System.EventHandler(this.guna2HtmlLabel5_Click);
@@ -162,7 +176,7 @@
             this.guna2HtmlLabel4.ForeColor = System.Drawing.Color.Navy;
             this.guna2HtmlLabel4.Location = new System.Drawing.Point(43, 169);
             this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            this.guna2HtmlLabel4.Size = new System.Drawing.Size(80, 25);
+            this.guna2HtmlLabel4.Size = new System.Drawing.Size(65, 21);
             this.guna2HtmlLabel4.TabIndex = 4;
             this.guna2HtmlLabel4.Text = "Username";
             this.guna2HtmlLabel4.Click += new System.EventHandler(this.guna2HtmlLabel4_Click);
@@ -174,7 +188,7 @@
             this.guna2HtmlLabel3.ForeColor = System.Drawing.Color.Navy;
             this.guna2HtmlLabel3.Location = new System.Drawing.Point(43, 92);
             this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
-            this.guna2HtmlLabel3.Size = new System.Drawing.Size(204, 25);
+            this.guna2HtmlLabel3.Size = new System.Drawing.Size(168, 21);
             this.guna2HtmlLabel3.TabIndex = 3;
             this.guna2HtmlLabel3.Text = "Please sign in to continue!";
             this.guna2HtmlLabel3.Click += new System.EventHandler(this.guna2HtmlLabel3_Click);
@@ -209,24 +223,10 @@
             this.guna2HtmlLabel2.ForeColor = System.Drawing.Color.Navy;
             this.guna2HtmlLabel2.Location = new System.Drawing.Point(43, 50);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(138, 39);
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(114, 32);
             this.guna2HtmlLabel2.TabIndex = 1;
             this.guna2HtmlLabel2.Text = "Login page";
             this.guna2HtmlLabel2.Click += new System.EventHandler(this.guna2HtmlLabel2_Click);
-            // 
-            // guna2PictureBox1
-            // 
-            this.guna2PictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2PictureBox1.Image = global::sajidan_ukk_dekstop.Properties.Resources.logo;
-            this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(72, 151);
-            this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(130, 130);
-            this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2PictureBox1.TabIndex = 0;
-            this.guna2PictureBox1.TabStop = false;
-            this.guna2PictureBox1.UseTransparentBackground = true;
-            this.guna2PictureBox1.Click += new System.EventHandler(this.guna2PictureBox1_Click);
             // 
             // login
             // 
@@ -240,9 +240,9 @@
             this.Text = "Login";
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.guna2Panel2.ResumeLayout(false);
             this.guna2Panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
