@@ -9,7 +9,7 @@ namespace sajidan_ukk_dekstop
 {
     internal class Connections
     {
-        public static string url = "Data Source=PONGO\\SQLEXPRESS;Initial Catalog=sajidan_ukk;Integrated Security=True;TrustServerCertificate=True";
+        public static string url = "Data Source=MYPCPRO\\SQLSERVER;Initial Catalog=sajidan__ukk;Integrated Security=True;TrustServerCertificate=True";
         public static SqlConnection koneksi;
         public static SqlConnection Connect()
         {

@@ -26,6 +26,7 @@ namespace sajidan_ukk_dekstop
         {
             InitializeComponent();
             show();
+            labelNama.Text = Sessions.username;
         }
         public void show()
         {
@@ -322,11 +323,31 @@ namespace sajidan_ukk_dekstop
 
         private void guna2Button6_Click(object sender, EventArgs e)
         {
-            using (XLWorkbook xl = new XLWorkbook())
+            using (SaveFileDialog saveFileDialog = new SaveFileDialog())
             {
-                string lokasi = @"C:\Users\Axioo Pongo\Music\dataProducts.xlsx";
-                xl.Worksheets.Add(dt, "products");
-                xl.SaveAs(lokasi);
+                saveFileDialog.Filter = "Excel Files|*.xlsx";
+                saveFileDialog.Title = "Simpan File Excel";
+                saveFileDialog.FileName = "dataProducts.xlsx";
+                saveFileDialog.DefaultExt = "xlsx";
+
+                if (saveFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        using (XLWorkbook xl = new XLWorkbook())
+                        {
+                            xl.Worksheets.Add(dt, "products");
+                            xl.SaveAs(saveFileDialog.FileName);
+                        }
+                        MessageBox.Show("Data berhasil disimpan!", "Sukses",
+                                      MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Error saat menyimpan file: {ex.Message}", "Error",
+                                      MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
             }
         }
     }
